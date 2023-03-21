@@ -18,6 +18,12 @@ const Contact = ({ name, email }) => {
             <p className="lead">
               Email: {email}
             </p>
+            <p className="lead">
+             <a href='https://www.linkedin.com/in/david-henry-jolley-70230b254/'>LinkedIn</a>
+            </p>
+            <p className="lead">
+             <a href='https://github.com/DavidHJolley/'>GitHub</a>
+            </p>
           </div>
         </Col>
       </Row>
